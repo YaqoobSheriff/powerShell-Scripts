@@ -10,4 +10,4 @@ Port range(lower-limit and upper-limit) has to be passed as the parameter to the
 ex: Portsusage.ps1 "8000" "8010"
 
 .Output
-Gives the list of available ports in the port range given.
+Gives the list of available ports in the port range given
