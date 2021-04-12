@@ -1,6 +1,6 @@
 # PortsUsage
 .Synopsis
-This powershell script is used to fetch the used ports and display the available ports.   
+This powershell script is used to fetch the used ports and display the available ports
 
 .Description
 This PS Script compares all the ports within the given range to the ports running in the VM.
