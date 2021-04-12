@@ -1,4 +1,4 @@
-# powerShell-Scripts
+# PortsUsage
 .Synopsis
 This powershell script is used to fetch the used ports and display the available ports.   
 
