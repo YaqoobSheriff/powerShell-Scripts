@@ -5,6 +5,7 @@ This powerShell script is used to place application shortcuts on the user deskto
 
 .Description
 This PowerShell script matches the name of the application given with the predefined names in the switch condition and places the corresponding application desktop.
+Change the paths according to your applications.
 
 .Input
 Params 'appnames' has to be passed to the script.
